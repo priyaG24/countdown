@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url(./img1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.container {
+  text-align: center;
+  margin-top: 25px;
+}
+h1 {
+  color: white;
+  font-size: 60px;
+  color: aqua;
+  /* text-shadow: 2px 2px rgb(238, 89, 139); */
+  text-shadow: 2px 5px rgb(29, 103, 114);
+}
+button {
+  height: 100px;
+  width: 100px;
+  background-color: #fff;
+  /* box-shadow: 5px purple; */
+  box-shadow: 10px 10px rgb(29, 103, 114);
+  font-size: 25px;
+  color: palevioletred;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+  margin-inline: 11px;
+}
